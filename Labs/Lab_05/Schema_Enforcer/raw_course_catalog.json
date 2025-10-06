@@ -1,0 +1,66 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "PHYS1655",
+    "section": "001",
+    "title": "Python for Scientists",
+    "level": 100,
+    "instructors": [
+      {
+        "name": "Craig Group",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "CS3100",
+    "section": "001",
+    "title": "Data Structures and Algorithms 2",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "Mark Floryan",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "CS3140",
+    "section": "001",
+    "title": "Software Development Essentials",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "Nhat Nguyen",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "EVSC1600",
+    "section": "001",
+    "title": "Water on Earth",
+    "level": 100,
+    "instructors": [
+      {
+        "name": "Frederick Cheng",
+        "role": "Primary"
+      }
+    ]
+  }
+]
