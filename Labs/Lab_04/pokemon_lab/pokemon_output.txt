@@ -1,0 +1,60 @@
+--- Running Test Pipeline (Built-in Test Modes) ---
+--- Running Test Pipeline (Built-in Test Modes) ---
+Wrote portfolio CSV: test_card_portfolio.csv
+Total Portfolio Value: $326.55
+Most Valuable Card:
+  Name: Charizard
+  ID:   base0-4
+  Value: $250.75
+Test complete.
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+make[1]: Entering directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Refreshing All Card Sets ---
+Refreshing all existing card sets in card_set_lookup/ ...
+Updating set: base1
+Updated: card_set_lookup/base1.json
+Updating set: base4
+Updated: card_set_lookup/base4.json
+All card sets refreshed.
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+make[1]: Entering directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Refreshing All Card Sets ---
+Refreshing all existing card sets in card_set_lookup/ ...
+Updating set: base1
+Updated: card_set_lookup/base1.json
+Updating set: base4
+Updated: card_set_lookup/base4.json
+All card sets refreshed.
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+make[1]: Entering directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Refreshing All Card Sets ---
+Refreshing all existing card sets in card_set_lookup/ ...
+Updating set: base1
+Updated: card_set_lookup/base1.json
+Updating set: base4
+Updated: card_set_lookup/base4.json
+All card sets refreshed.
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+Wrote portfolio CSV: card_portfolio.csv
+Total Portfolio Value: $3,819.40
+Most Valuable Card:
+  Name: Charizard
+  ID:   base1-4
+  Value: $458.29
